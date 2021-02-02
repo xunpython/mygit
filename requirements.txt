@@ -18,7 +18,7 @@ bcrypt==3.1.7
 beatserver==0.0.7
 beautifulsoup4==4.9.0
 billiard==3.6.1.0
-bleach==3.1.4
+bleach==3.3.0
 celery==4.3.0
 certifi==2018.10.15
 cffi==1.13.0
