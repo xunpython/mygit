@@ -139,7 +139,7 @@ pycparser==2.19
 pyecharts==1.7.1
 pyexcel-io==0.5.20
 pyexcel-xls==0.5.8
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInstaller==3.6
 PyJWT==1.7.1
